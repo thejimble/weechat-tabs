@@ -1,0 +1,7 @@
+generate a new bar
+find all the active buffers and store them in an array
+gather buffer data, which includes:
+  decide on a name and color based on buffer type: Channel, PM, or system buffer. Named the channel name, nick, or "Main" respectively
+  unread messages count
+  nick mentions, only if it's a channel Buffer
+make the channel tabs arrangeable, with keys at first and eventually with mouse drags.
